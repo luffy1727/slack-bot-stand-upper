@@ -1,0 +1,25 @@
+{
+  "name": "slack-bot-phabricator",
+  "version": "1.0.0",
+  "description": "mr stand upper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luffy1727/slack-bot-stand-upper.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "standup"
+  ],
+  "author": "luffy1727",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luffy1727/slack-bot-stand-upper/issues"
+  },
+  "homepage": "https://github.com/luffy1727/slack-bot-stand-upper#readme"
+}
