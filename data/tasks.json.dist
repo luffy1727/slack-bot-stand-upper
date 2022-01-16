@@ -5,7 +5,7 @@
         {"name" : "hello my name is task #2"}
     ],
     "in-progress" : [
-        {"name" : "hello my name is task #1"},
-        {"name" : "hello my name is task #4"}
+        {"name" : "hello my name is task #6"},
+        {"name" : "hello my name is task #6"}
     ]
 }
