@@ -8,6 +8,7 @@ My team requires us to write our plan for the day in slack  every morning around
 - [x] `Acquire oauth token from slack`
 - [x] Find out how to send messages to a slack channel as a user(- https://api.slack.com/methods/chat.postMessage). API doc etc 
 - [x] Try to use slack scheduled message? idk if it is necessary though. 
+- [ ] Fetch task list from Jira/Phabricator?.
 - [ ] `Set up AWS Lambda.`
 
 # BACKLOG:
@@ -18,5 +19,5 @@ My team requires us to write our plan for the day in slack  every morning around
 
 # PROBLEMS:
 - Do i have to upload json file every week or even everyday?
-- In order to get tasks form phabricator i need to create an Oauth server(which i don't access for) or actually crawl the web(i don't know how to get past the 2fa).
+- In order to get tasks form phabricator i need to create an Oauth server(which i don't have access for) or actually crawl the web(i don't know how to get past the 2fa).
 (https://developer.atlassian.com/server/jira/platform/rest-apis/)
