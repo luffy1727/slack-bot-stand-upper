@@ -8,4 +8,6 @@ My team requires us to write our plan for the day in slack  every morning around
 - [x] Try to use slack scheduled message? idk if it is necessary though. 
 - [x] `Fetch task list from Jira/Phabricator?.`
 - [x] `Set up AWS Lambda.`
-- [ ] `Add date checker? (if tuesday or thursday add WFH at the end.)`
+- [x] `Add date checker? (if tuesday or thursday add WFH at the end.)`
+- [ ] `Maybe add slack status setter`
+- [ ] `Start sending in random times within the timeframe. `
